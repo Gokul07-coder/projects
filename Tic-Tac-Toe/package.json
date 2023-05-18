@@ -8,7 +8,8 @@
     "start": "nodemon server.js"
   },
   "keywords": [
-    "game"
+    "game",
+    "multiplayer"
   ],
   "author": "gokulm",
   "license": "ISC",

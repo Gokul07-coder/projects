@@ -8,7 +8,7 @@
     "start": "nodemon App.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "gokulm",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",

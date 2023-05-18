@@ -10,7 +10,7 @@
   "keywords": [
     "game"
   ],
-  "author": "",
+  "author": "gokulm",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
